@@ -27,7 +27,11 @@
 
 <p float="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mennatallahhxx&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="38%" style="margin-right: 60px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MennatAllahhxx&show_icons=true&theme=dark#gh-dark-mode-only&locale=en&layout=compact" alt="Profile Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MennatAllahhxx&show_icons=true&theme=dark&locale=en&layout=compact&rank_icon=github" alt="Profile Stats" width="50%">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=mennatallahhxx&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mennatallahhxx&label=Profile%20Views&color=12&pretty=true" alt="Profile Views" width="17%">
+  </a>
+</p>
