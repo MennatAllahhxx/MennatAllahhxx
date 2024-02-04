@@ -32,6 +32,6 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mennatallahhxx&label=Profile%20Views&color=12&pretty=true" alt="Profile Views" width="17%">
+    <img src="https://visitcount.itsvg.in/api?id=mennatallahhxx&label=Profile%20Views&color=12&icon=2&pretty=true" alt="Profile Views" width="17%">
   </a>
 </p>
