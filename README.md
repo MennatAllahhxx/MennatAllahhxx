@@ -30,8 +30,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MennatAllahhxx&show_icons=true&theme=dark&locale=en&layout=compact&rank_icon=github" alt="Profile Stats" width="50%">
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mennatallahhxx&label=Profile%20Views&color=12&icon=2&pretty=true" alt="Profile Views" width="17%">
-  </a>
-</p>
+<div align="center">
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=mennatallahhxx&color=grey)
+
+
+
+</div>
