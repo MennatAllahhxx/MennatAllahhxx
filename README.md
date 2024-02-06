@@ -29,13 +29,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mennatallahhxx&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="38%" style="margin-right: 60px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MennatAllahhxx&show_icons=true&theme=dark&locale=en&layout=compact&rank_icon=github" alt="Profile Stats" width="50%">
 </p>
+<div>
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=mennatallahhxx&theme=dark" alt="GitHub Streak" /></a>
+</div>
+<p></p>
 
 <div align="center">
-
-
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=mennatallahhxx&color=grey)
-
-
-
 </div>
