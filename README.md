@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Menna</h1>
 <h3 align="center">A passionate software engineering intern</h3>
 
-- I’m currently learning **embedded systems and backend development.**
+- I’m currently learning **MBD and Backend Development.**
 
 - How to reach me **h.menna85@gmail.com**
 
