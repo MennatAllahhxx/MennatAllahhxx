@@ -5,7 +5,7 @@
 
 - How to reach me **h.menna85@gmail.com**
 
-- Know about my experiences [My Resume](https://drive.google.com/file/d/1z0XRhfLlg1EJ7P_OG4xQ2D-OzHCdda4U/view?usp=sharing)
+- Know more about my experience: [My Resume](https://drive.google.com/file/d/1z0XRhfLlg1EJ7P_OG4xQ2D-OzHCdda4U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/MennatAllahhxx" target="_blank">
