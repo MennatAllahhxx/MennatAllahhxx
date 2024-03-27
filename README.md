@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Menna</h1>
-<h3 align="center">A passionate software engineering intern</h3>
+<h3 align="center">SWE Intern</h3>
 
 - I’m currently learning **MBD and Backend Development.**
 
