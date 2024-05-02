@@ -7,7 +7,7 @@
 
 - Know more about my experience: [My Resume](https://drive.google.com/file/d/1z0XRhfLlg1EJ7P_OG4xQ2D-OzHCdda4U/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <a href="https://linkedin.com/in/MennatAllahhxx" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
