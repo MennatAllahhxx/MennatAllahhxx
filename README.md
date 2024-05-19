@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MennatAllahhxx&show_icons=true&theme=dark&locale=en&layout=compact&rank_icon=github" alt="Profile Stats" width="53%">
 </p>
 <div>
-<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=mennatallahhxx" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com/?user=mennatallahhxx" alt="GitHub Streak" /></a>
 </div>
 <p></p>
 
