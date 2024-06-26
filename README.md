@@ -18,7 +18,7 @@
 
 
 <p >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennatallahhxx&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Top Languages" width="40%" ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennatAllahhxx&layout=compact&theme=transparent" alt="Top Languages" width="40%" ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MennatAllahhxx&show_icons=true&theme=transparent&locale=en&layout=compact&rank_icon=github" alt="Profile Stats" width="53%">
 </p>
 <div>
